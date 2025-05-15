@@ -39,7 +39,7 @@ python remove_kanji_before_ruby.py --input sample.txt --output sample_voicevox.t
 ```bash
 python remove_annotation_word.py --input input.txt --output output.txt
 ```
-引数	説明
+#### 引数	説明
 ----
 - --input	入力テキストファイル（UTF-8）
 - --output	出力テキストファイル
@@ -58,7 +58,7 @@ python remove_annotation_word.py --input input.txt --output output.txt
 ```bash
 python remove_kanji_before_ruby.py --input input.txt --output output.txt
 ```
-引数	説明
+#### 引数	説明
 ----
 - --input	入力テキストファイル（UTF-8）
 - --output	出力テキストファイル
