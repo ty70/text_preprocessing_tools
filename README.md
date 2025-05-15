@@ -44,7 +44,7 @@ python remove_annotation_word.py --input input.txt --output output.txt
 - --input	入力テキストファイル（UTF-8）
 - --output	出力テキストファイル
 
-2. remove_kanji_before_ruby.py - 音声読み上げ用
+### 2. remove_kanji_before_ruby.py - 音声読み上げ用
 
 - **用途**: テキスト音声合成で正しい発音を得るために、ルビの中身だけを残します。漢字は読み上げ時の誤読を防ぐため削除します。
 
